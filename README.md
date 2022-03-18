@@ -16,5 +16,5 @@
 * kutil-java-...
   * java utilities
 
-# Servers
+# Configs
 <img src="VmConfig.png">
