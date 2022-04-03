@@ -9,12 +9,12 @@
 ## Repositories
 ### Naming
 
-* con-...
-  * docker-compose
 * kutil-...
   * utilities
 * kutil-java-...
   * java utilities
+* kutil-spigot-...
+  * spigot utilities
 
 # Configs
 <img src="VmConfig.png">
