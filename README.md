@@ -15,7 +15,7 @@
   * java utilities
 * kutil-spigot-...
   * spigot utilities
-test
+
 # Configs
 ## VM
 <img src="VmConfig.png">
