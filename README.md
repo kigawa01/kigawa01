@@ -1,5 +1,8 @@
 # kigawa
+
 * kigawa.8390@gmail.com
+
+***
 
 # About
 
@@ -7,15 +10,19 @@
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kigawa01&layout=compact)
 
 ## Repositories
+
 ### Naming
 
 * kutil-...
-  * utilities
+    * utilities
 * kutil-java-...
-  * java utilities
+    * java utilities
 * kutil-spigot-...
-  * spigot utilities
+    * spigot utilities
+
+***
 
 # Configs
-## VM
-<img src="VmConfig.png">
+
+* [VM](vmConfig.png)
+* [port](portConfig.png)
