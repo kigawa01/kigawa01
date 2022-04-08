@@ -20,6 +20,9 @@
 * kutil-spigot-...
     * spigot utilities
 
+* wiki-...
+   * wiki
+
 ***
 
 # Configs
