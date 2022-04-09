@@ -21,11 +21,12 @@
     * spigot utilities
 
 * wiki-...
-   * wiki
+    * wiki
 
 ***
 
-# Configs
+# Config
 
-* [VM](vmConfig.png)
-* [port](portConfig.png)
+* [VM](config/vmConfig.png)
+* [port](config/portConfig.png)
+* [ip](config/ipConfig.png)
