@@ -15,6 +15,7 @@
 * java
 
 ### Good at
+* go
 * kotlin
 * php
 * shellScript
@@ -22,7 +23,6 @@
 * twig
 
 ### Can be use a little
-* go
 * ruby
 * python
 * javaScript
