@@ -27,7 +27,7 @@
 * python
 * javaScript
 * C#
-* C
+* C/C++
 
 ## Repositories
 
