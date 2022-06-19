@@ -21,6 +21,7 @@
 * shellScript
 * html/css
 * twig
+* typescript
 
 ### Can be use a little
 * ruby
