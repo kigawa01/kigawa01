@@ -22,13 +22,14 @@
 * html/css
 * twig
 * typescript
+* javaScript
+* C#
+* C/C++
 
 ### Can be use a little
 * ruby
 * python
-* javaScript
-* C#
-* C/C++
+* rust
 
 ## Repositories
 
