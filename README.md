@@ -14,7 +14,7 @@
 ### Especially good at
 * java
 
-### Good at
+### can use
 * go
 * kotlin
 * php
