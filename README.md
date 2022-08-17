@@ -14,19 +14,22 @@
 ### Especially good at
 * java
 
-### Good at
+### can use
+* go
 * kotlin
 * php
 * shellScript
 * html/css
 * twig
-
-### Can be use a little
-* go
-* ruby
-* python
+* typescript
 * javaScript
 * C#
+* C/C++
+
+### Can be use a little
+* ruby
+* python
+* rust
 
 ## Repositories
 
