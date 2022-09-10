@@ -51,4 +51,4 @@
 
 * [VM](config/vmConfig.png)
 * [port](config/portConfig.png)
-* [ip](config/ipConfig.png)
+* [ip](config/ipConfigf.drawio.png)
