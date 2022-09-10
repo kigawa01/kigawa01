@@ -12,24 +12,13 @@
 ## Languages
 
 ### Especially good at
-* java
+java
 
 ### can use
-* go
-* kotlin
-* php
-* shellScript
-* html/css
-* twig
-* typescript
-* javaScript
-* C#
-* C/C++
+go, kotlin, php, shellScript, html/css, twig, typescript, javaScript, C#, C/C++
 
 ### Can be use a little
-* ruby
-* python
-* rust
+ruby, python, rust
 
 ## Repositories
 
