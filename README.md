@@ -39,5 +39,4 @@ ruby, python, rust
 # Config
 
 * [VM](config/vmConfig.png)
-* [port](config/portConfig.png)
-* [ip](config/ipConfigf.drawio.png)
+* [ip](config/ipConfig.drawio.png)
