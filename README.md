@@ -12,27 +12,23 @@
 ## Languages
 
 ### Especially good at
-java
+* java
+* kotlin/jvm
 
 ### can use
-go, kotlin, php, shellScript, html/css, twig, typescript, javaScript, C#, C/C++
+* kotlin/common
+* kotlin/js
+* kotlin/native
+* php
+* shellScript
+* html/css
+* python
+* typescript
 
 ### Can be use a little
-ruby, python, rust
-
-## Repositories
-
-### Naming
-
-* kutil-...
-    * utilities
-* kutil-java-...
-    * java utilities
-* kutil-spigot-...
-    * spigot utilities
-
-* wiki-...
-    * wiki
+* rust
+* C#
+* go
 
 ***
 
