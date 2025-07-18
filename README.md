@@ -1,5 +1,6 @@
 # kigawa
 
+* 開発している多くのプロジェクトは[kigawa-net](https://github.com/kigawa-net)にあります
 * kigawa.8390@gmail.com
 
 ***
