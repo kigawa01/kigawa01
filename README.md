@@ -16,7 +16,7 @@
 * java
 * kotlin/jvm
 
-### can use
+### Can use
 * kotlin/common
 * kotlin/js
 * kotlin/native
@@ -25,11 +25,13 @@
 * html/css
 * python
 * typescript
+* go
+* SQL
 
 ### Can be use a little
 * rust
 * C#
-* go
+* swift
 
 ***
 
