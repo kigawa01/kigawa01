@@ -1,7 +1,7 @@
 # kigawa
 
 * 開発しているプロジェクトの多くは [kigawa-net](https://github.com/kigawa-net) にあります
-* kigawa.8390@gmail.com
+* mail@kigawa.net
 
 ***
 
