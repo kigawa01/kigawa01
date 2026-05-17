@@ -6,7 +6,7 @@
 ***
 
 # About
-![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/kigawa01/2-most-commit-language.svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kigawa01)
 
 ## Languages
 
