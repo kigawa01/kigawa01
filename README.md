@@ -8,6 +8,8 @@
 # About
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kigawa01)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kigawa01&theme=buefy&utcOffset=9)
+
 ## Languages
 
 ### Especially good at
